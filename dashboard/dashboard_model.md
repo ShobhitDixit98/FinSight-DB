@@ -2,6 +2,7 @@
 See the data model created based on the spend_save database below:
 
 ![image](https://github.com/weismanm12/finances_database/assets/112783326/60713785-53f8-4eba-aef6-36b95cf74296)
+![data model](dashboard/data_model.png)
 
 ## Tables
 Five of the seven tables in this data model are tables directly imported from the database. To view descriptions of the data contained in these tables, see the [spend_save data dictionary](https://github.com/ShobhitDixit98/FinSight-DB/blob/main/database_creation/data_dictionary.md).

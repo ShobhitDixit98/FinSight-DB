@@ -1,7 +1,7 @@
 # Data Model for Personal Finance Dashboard
 See the data model created based on the spend_save database below:
 
-![image](https://github.com/ShobhitDixit98/FinSight-DB/dashboard/data_model.png)
+![image](https://github.com/ShobhitDixit98/FinSight-DB/blob/main/dashboard/data_model.png)
 
 ## Tables
 Five of the seven tables in this data model are tables directly imported from the database. To view descriptions of the data contained in these tables, see the [spend_save data dictionary](https://github.com/ShobhitDixit98/FinSight-DB/blob/main/database_creation/data_dictionary.md).

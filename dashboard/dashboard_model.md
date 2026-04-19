@@ -27,5 +27,4 @@ Table containing all custom measures used for calculations in the dashboard. See
 Note: The measures_table also has the column "Column" which is a default column needed in order to create the measures_table. This column contains no data and is not used.
 
 
-ShobhitDixit98/FinSight-DB
 

@@ -60,6 +60,6 @@ From the dashboard, it is evident that a significant portion of my expenses duri
 Overall, this dashboard and database serve as valuable tools for effectively monitoring my finances. The two tools enable me to track my spending, identify areas where I can make improvements, and ultimately strengthen my personal financial position.
 
 ## Maintainer
-Shobhit Dixit is an AI/ML Engineer with 4 years of experience building and deploying production-grade machine learning and generative AI systems across financial services and healthcare domains. Specialized in Python, SQL, and end-to-end data pipelines, Shobhit maintains this project to demonstrate robust data engineering and financial analytics practices.
+Shobhit Dixit is an AI/ML Engineer with 4 years of experience building and deploying production-grade machine learning and generative AI systems across financial services, healthcare and telecom domains. Specialized in Python, SQL, and end-to-end data pipelines, This project is  to demonstrate robust data engineering and financial analytics practices.
 
-Email: dshobhit709@gmail.com
+Email: iamshobhit98@gmail.com
